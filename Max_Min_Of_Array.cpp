@@ -13,6 +13,8 @@ int getMax(int arr[], int size)
     return max;
 }
 int getMin(int arr[], int size)
+
+
 {
     int min = INT_MAX;
     for (int i = 0; i < size; i++)
